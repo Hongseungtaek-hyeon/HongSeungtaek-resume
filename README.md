@@ -42,6 +42,7 @@
 - java
 - python
 - R
+- unity(기본)
 - 딥러닝 (기본 지식)
    - 타이타닉 데이터를 통한 딥러닝
    - ![photo](img2.PNG)
