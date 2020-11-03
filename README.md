@@ -50,21 +50,22 @@
 # 프로젝트
 ## C++를 통한 유사 배달앱 프로그램
 ---
-### 출력화면
+### 출력 화면
 - 시작화면
-- ![photo](proj1.PNG)
+- ![photo](proj1.png)
 - 회원가입 및 로그인
-- ![photo](proj_login.PNG)
+- ![photo](proj_login.png)
 - 주문 시도
-- ![photo](proj_tryorder.PNG)
+- ![photo](proj_tryorder.png)
 - 주문 후 메뉴에서 주문내역 확인가능
-- ![photo](proj_checkmenu.PNG)
+- ![photo](proj_checkmenu.png)
 - 로그아웃
-- ![photo](proj_logout.PNG)
+- ![photo](proj_logout.png)
 - 관리자계정 로그인 및 로그인 상태시 로그인과 회원가입 시도 불가능
-- ![photo](proj_loginadmin.PNG)
+- ![photo](proj_loginadmin.png)
 - 관리자 계정으로 고객 주문 확인
-- ![photo](proj_admincheckmenu.PNG)
+- ![photo](proj_admincheckmenu.png)
 - 프로그램 종료
-- ![photo]([proj_end].PNG)
+- ![photo](proj_end.png)
 
+---
