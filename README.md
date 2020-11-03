@@ -2,7 +2,7 @@
 
 # 소개
 
-<img src = image.jpg height = 150 wight = 150>
+<img src = hongimg.jpg height = 150 wight = 150>
 
 
     이름 : 홍승택
