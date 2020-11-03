@@ -2,7 +2,8 @@
 
 # 소개
 
-![photo](image.jpg)
+<img src = image.jpg height = 150 wight = 150>
+- 
 - 이름 : 홍승택
 - 생년월일: 1997년 10월 4일
 - 거주지 : 춘천
@@ -43,9 +44,27 @@
 - R
 - 딥러닝 (기본 지식)
    - 타이타닉 데이터를 통한 딥러닝
-   - [photo](img2.PNG)
-   - [photo](img3.PNG)
-   - [photo](img4.PNG)
-## 프로젝트
+   - ![photo](img2.PNG)
+   - ![photo](img3.PNG)
+   - ![photo](img4.PNG)
+# 프로젝트
+## C++를 통한 유사 배달앱 프로그램
 ---
--C를 통한 유사 배달앱 프로그램
+### 출력화면
+- 시작화면
+- ![photo](proj1.PNG)
+- 회원가입 및 로그인
+- ![photo](proj_login.PNG)
+- 주문 시도
+- ![photo](proj_tryorder.PNG)
+- 주문 후 메뉴에서 주문내역 확인가능
+- ![photo](proj_checkmenu.PNG)
+- 로그아웃
+- ![photo](proj_logout.PNG)
+- 관리자계정 로그인 및 로그인 상태시 로그인과 회원가입 시도 불가능
+- ![photo](proj_loginadmin.PNG)
+- 관리자 계정으로 고객 주문 확인
+- ![photo](proj_admincheckmenu.PNG)
+- 프로그램 종료
+- ![photo]([proj_end].PNG)
+
